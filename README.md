@@ -23,6 +23,7 @@ https://github.com/y-takefuji/generativeAI
 (breast cancer screening): https://doi.org/10.1016/j.jemep.2023.100938
 
 <b>How to use internet search engines</b>
+https://github.com/y-takefuji/bash-shell
 https://doi.org/10.1016/j.aggp.2024.100025
 https://doi.org/10.3390/ijtm2020015
 
