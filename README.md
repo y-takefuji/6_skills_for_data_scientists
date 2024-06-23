@@ -25,7 +25,7 @@ https://github.com/y-takefuji/generativeAI
 <b>How to use internet search engines</b>
 https://github.com/y-takefuji/bash-shell
   download keyword.crypted and decrypt it:
-  11.11. How to decrypt keyword.crypted file.
+  How to decrypt keyword.crypted file.
   For Windows,
 $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx
   For Mac,
