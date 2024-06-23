@@ -1,6 +1,6 @@
 # 6_skills_for_data_scientists
-Professional data scientists must know programming in Python, worldwide dissemination using PyPI, 
-generative AI, metrics using confusion matrics, internet searching with operators, and creating datasets. 
+Professionals in data science are expected to excel in six crucial skills: Python programming, global distribution of packages via PyPI, comprehension of generative AI to aid human tasks, application of diverse metrics like confusion matrices for evaluating the quality of time-series events, execution of advanced internet searches using operators, and the creation of datasets.
+
 <pre>
 <b>1.Python PROGRAMMING</b>
 <b>1.1.Python programming:</b>
