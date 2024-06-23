@@ -1,28 +1,29 @@
 # 6_skills_for_data_scientists
 <pre>
-<b>Python programming:</b>
+<b>1.Python PROGRAMMING</b>
+<b>1.1.Python programming:</b>
 https://github.com/y-takefuji/python-novice
   
-<b>IoT programming:</b>
+<b>1.2.IoT programming:</b>
 https://github.com/y-takefuji/IoT
   
-<b>Fusing AI and Iot programming:</b>
+<b>1.3.Fusing AI and Iot programming:</b>
 https://github.com/y-takefuji/mediapipe_pose
 https://github.com/y-takefuji/mediapipe_hand
 https://github.com/y-takefuji/air_calculator
 https://github.com/y-takefuji/airpiano
 
-<b>PyPI applications and their reproducibility:</b>
+<b>2.PyPI applications and their reproducibility:</b>
 https://pypi.org/user/takefuji/
 https://github.com/y-takefuji/agci
   
-<b>How to use Generative AI:</b>
+<b>3.How to use Generative AI:</b>
 https://github.com/y-takefuji/generativeAI
 
-<b>Metrics(confusion matrix) analysis:</b>
+<b>4.Metrics(confusion matrix) analysis:</b>
 (breast cancer screening): https://doi.org/10.1016/j.jemep.2023.100938
 
-<b>How to use internet search engines</b>
+<b>5.How to use internet search engines</b>
 https://github.com/y-takefuji/bash-shell
   download keyword.crypted and decrypt it:
   How to decrypt keyword.crypted file.
@@ -34,6 +35,6 @@ $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx -md sha256
 https://doi.org/10.1016/j.aggp.2024.100025
 https://doi.org/10.3390/ijtm2020015
 
-<b>How to create datasets</b>
+<b>6.How to create datasets</b>
 https://doi.org/10.1016/j.aei.2021.101354
 </pre>
