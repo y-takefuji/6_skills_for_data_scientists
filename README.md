@@ -2,7 +2,8 @@
 <pre>
 <b>Python programming:</b>
 https://github.com/y-takefuji/python-novice
-IoT programming:
+  
+<b>IoT programming:</b>
 https://github.com/y-takefuji/IoT
   
 <b>Fusing AI and Iot programming:</b>
