@@ -1,4 +1,6 @@
 # 6_skills_for_data_scientists
+Data scientists must know programming in Python, worldwide dissemination using PyPI, 
+generative AI, metrics using confusion matrics, internet searching with operators, and creating datasets. 
 <pre>
 <b>1.Python PROGRAMMING</b>
 <b>1.1.Python programming:</b>
