@@ -16,6 +16,11 @@ https://github.com/y-takefuji/airpiano
 <b>2.PyPI applications and their reproducibility:</b>
 https://pypi.org/user/takefuji/
 https://github.com/y-takefuji/agci
+https://www.softwareimpacts.com/article/S2665-9638(22)00137-3/fulltext
+https://www.softwareimpacts.com/article/S2665-9638(23)00003-9/fulltext
+https://doi.org/10.1007/s13721-023-00430-5
+https://doi.org/10.1007/s13721-022-00359-1
+https://doi.org/10.1016/j.ahr.2023.100167
   
 <b>3.How to use Generative AI:</b>
 https://github.com/y-takefuji/generativeAI
