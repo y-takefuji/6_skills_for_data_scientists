@@ -18,21 +18,21 @@ https://github.com/y-takefuji/airpiano
 
 <b>2.PyPI applications and their reproducibility:</b>
 <a href='https://pypi.org/user/takefuji/'>PyPI examples: https://pypi.org/user/takefuji/</a>
-https://github.com/y-takefuji/agci
-https://www.softwareimpacts.com/article/S2665-9638(22)00137-3/fulltext
-https://www.softwareimpacts.com/article/S2665-9638(23)00003-9/fulltext
-https://doi.org/10.1007/s13721-023-00430-5
-https://doi.org/10.1007/s13721-022-00359-1
-https://doi.org/10.1016/j.ahr.2023.100167
+<a href='https://github.com/y-takefuji/agci'>PyPI full tutorial:https://github.com/y-takefuji/agci</a>
+<a href='https://www.softwareimpacts.com/article/S2665-9638(22)00137-3/fulltext'>scorecovid</a>
+<a href='https://www.softwareimpacts.com/article/S2665-9638(23)00003-9/fulltext'>hiscovid</a>
+<a href='https://doi.org/10.1007/s13721-023-00430-5'>covidlag</a>
+<a href='https://doi.org/10.1007/s13721-022-00359-1'>deathdaily</a>
+<a href='https://doi.org/10.1016/j.ahr.2023.100167'>midlife excessive mortality</a>
   
 <b>3.How to use Generative AI:</b>
-https://github.com/y-takefuji/generativeAI
+<a href='https://github.com/y-takefuji/generativeAI'>https://github.com/y-takefuji/generativeAI</a>
 
 <b>4.Metrics(confusion matrix) analysis:</b>
-breast cancer screening: https://doi.org/10.1016/j.jemep.2023.100938
-arthritis prevalence: https://doi.org/10.1016/j.intimp.2024.112032
-diabetes prevalence in Japan: https://doi.org/10.1016/j.aggp.2024.100025
-mental health: https://doi.org/10.1016/j.ajp.2023.103736
+<a href='https://doi.org/10.1016/j.jemep.2023.100938'>breast cancer screening</a>
+<a href~'https://doi.org/10.1016/j.intimp.2024.112032'>arthritis prevalence</a>
+<a href='https://doi.org/10.1016/j.aggp.2024.100025'>diabetes prevalence in Japan</a>
+<a href='https://doi.org/10.1016/j.ajp.2023.103736'>mental health</a>
 
 <b>5.How to use internet search engines</b>
 https://github.com/y-takefuji/bash-shell
@@ -47,5 +47,5 @@ https://doi.org/10.1016/j.aggp.2024.100025
 https://doi.org/10.3390/ijtm2020015
 
 <b>6.How to create datasets</b>
-https://doi.org/10.1016/j.aei.2021.101354
+<a href='https://doi.org/10.1016/j.aei.2021.101354'>example</a>
 </pre>
