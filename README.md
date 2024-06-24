@@ -29,7 +29,8 @@ https://doi.org/10.1016/j.ahr.2023.100167
 https://github.com/y-takefuji/generativeAI
 
 <b>4.Metrics(confusion matrix) analysis:</b>
-(breast cancer screening): https://doi.org/10.1016/j.jemep.2023.100938
+breast cancer screening: https://doi.org/10.1016/j.jemep.2023.100938
+arthritis prevalence: https://doi.org/10.1016/j.intimp.2024.112032
 
 <b>5.How to use internet search engines</b>
 https://github.com/y-takefuji/bash-shell
