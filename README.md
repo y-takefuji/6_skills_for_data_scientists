@@ -32,6 +32,7 @@ https://github.com/y-takefuji/generativeAI
 breast cancer screening: https://doi.org/10.1016/j.jemep.2023.100938
 arthritis prevalence: https://doi.org/10.1016/j.intimp.2024.112032
 diabetes prevalence in Japan: https://doi.org/10.1016/j.aggp.2024.100025
+mental health: https://doi.org/10.1016/j.ajp.2023.103736
 
 <b>5.How to use internet search engines</b>
 https://github.com/y-takefuji/bash-shell
