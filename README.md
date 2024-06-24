@@ -17,7 +17,7 @@ https://github.com/y-takefuji/air_calculator
 https://github.com/y-takefuji/airpiano
 
 <b>2.PyPI applications and their reproducibility:</b>
-https://pypi.org/user/takefuji/
+<a href='https://pypi.org/user/takefuji/'>PyPI examples</a>
 https://github.com/y-takefuji/agci
 https://www.softwareimpacts.com/article/S2665-9638(22)00137-3/fulltext
 https://www.softwareimpacts.com/article/S2665-9638(23)00003-9/fulltext
