@@ -30,7 +30,7 @@ https://github.com/y-takefuji/airpiano
 
 <b>4.Metrics(confusion matrix) analysis:</b>
 <a href='https://doi.org/10.1016/j.jemep.2023.100938'>breast cancer screening</a>
-<a href~'https://doi.org/10.1016/j.intimp.2024.112032'>arthritis prevalence</a>
+<a href='https://doi.org/10.1016/j.intimp.2024.112032'>arthritis prevalence</a>
 <a href='https://doi.org/10.1016/j.aggp.2024.100025'>diabetes prevalence in Japan</a>
 <a href='https://doi.org/10.1016/j.ajp.2023.103736'>mental health</a>
 
@@ -47,5 +47,5 @@ https://doi.org/10.1016/j.aggp.2024.100025
 https://doi.org/10.3390/ijtm2020015
 
 <b>6.How to create datasets</b>
-<a href='https://doi.org/10.1016/j.aei.2021.101354'>example</a>
+<a href='https://doi.org/10.1016/j.aei.2021.101354'>example in construction</a>
 </pre>
