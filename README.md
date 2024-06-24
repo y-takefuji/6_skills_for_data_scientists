@@ -5,16 +5,16 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <pre>
 <b>1.Python PROGRAMMING</b>
 <b>1.1.Python programming:</b>
-https://github.com/y-takefuji/python-novice
+<a href='https://github.com/y-takefuji/python-novice'>https://github.com/y-takefuji/python-novice</a>
   
 <b>1.2.IoT programming:</b>
-https://github.com/y-takefuji/IoT
+<a  href='https://github.com/y-takefuji/IoT'>https://github.com/y-takefuji/IoT</a>
   
 <b>1.3.Fusing AI and Iot programming:</b>
-https://github.com/y-takefuji/mediapipe_pose
-https://github.com/y-takefuji/mediapipe_hand
-https://github.com/y-takefuji/air_calculator
-https://github.com/y-takefuji/airpiano
+<a href='https://github.com/y-takefuji/mediapipe_pose'>MediaPipe Pose</a>
+<a href='https://github.com/y-takefuji/mediapipe_hand'>MediaPipe hand</a>
+<a href='https://github.com/y-takefuji/air_calculator'>aircalc</a>
+<a href='https://github.com/y-takefuji/airpiano'>airpiano</a>
 
 <b>2.PyPI applications and their reproducibility:</b>
 <a href='https://pypi.org/user/takefuji/'>PyPI examples: https://pypi.org/user/takefuji/</a>
