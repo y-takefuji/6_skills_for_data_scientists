@@ -47,8 +47,8 @@ $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx
   For Mac:
 $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx -md sha256
 
-https://doi.org/10.1016/j.aggp.2024.100025
-https://doi.org/10.3390/ijtm2020015
+<a href='https://doi.org/10.1016/j.aggp.2024.100025'>https://doi.org/10.1016/j.aggp.2024.100025</a>
+<a href='https://doi.org/10.3390/ijtm2020015'>https://doi.org/10.3390/ijtm2020015</a>
 
 <b>6.How to create datasets for machine learning</b>
 <a href='https://doi.org/10.1016/j.aei.2021.101354'>example in construction</a>
