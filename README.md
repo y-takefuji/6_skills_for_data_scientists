@@ -28,6 +28,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <a href='https://doi.org/10.1016/j.ahr.2023.100167'>midlife excessive mortality</a>
 <a href='https://doi.org/10.1016/j.intimp.2023.109823'>vaccine effect</a>
 <a href='https://doi.org/10.1016/j.drup.2023.101039'>bivalent vaccine effect</a>
+<a href='https://doi.org/10.1007/s11239-023-02930-7'>phope</a>
   
 <b>3.How to use Generative AI:</b>
 <a href='https://github.com/y-takefuji/generativeAI'>https://github.com/y-takefuji/generativeAI</a>
