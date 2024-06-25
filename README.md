@@ -21,6 +21,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <a href='https://github.com/y-takefuji/agci'>PyPI full tutorial:https://github.com/y-takefuji/agci</a>
 <a href='https://doi.org/10.3390/ijtm1030019'>PyPI old tutorial</a>
 <a href='https://doi.org/10.3390/ijtm2020015'>Set Operation: PyPI old tutorial</a>
+<a href='https://doi.org/10.1007/s13721-022-00359-1'>deathdaily</a>
 <a href='https://www.softwareimpacts.com/article/S2665-9638(22)00137-3/fulltext'>scorecovid</a>
 <a href='https://www.softwareimpacts.com/article/S2665-9638(23)00003-9/fulltext'>hiscovid</a>
 <a href='https://doi.org/10.1007/s13721-023-00430-5'>covidlag</a>
