@@ -55,7 +55,7 @@ https://doi.org/10.3390/ijtm2020015
 </pre>
 y=f(X) or Y=f(X): X=(x1,x2,...xn); Y=(y1,y2,...,ym); 
 
-Machine learning is equivalent to forming the relationship function: y=f(X) or Y=f(X) 
+Machine learning is equivalent to forming the relationship function f(): y=f(X) or Y=f(X) 
 between X (independent variables) and y (dependent variable) 
 or between X (independent variables) and Y (dependent variables).
 
