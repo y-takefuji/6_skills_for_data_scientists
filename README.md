@@ -25,6 +25,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <a href='https://www.softwareimpacts.com/article/S2665-9638(22)00137-3/fulltext'>scorecovid</a>
 <a href='https://www.softwareimpacts.com/article/S2665-9638(23)00003-9/fulltext'>hiscovid</a>
 <a href='https://doi.org/10.1007/s13721-023-00430-5'>covidlag</a>
+<a href='https://doi.org/10.1109/TCSS.2022.3227926'>usscore&jpscore</a>
 <a href='https://doi.org/10.1016/j.ahr.2023.100167'>midlife excessive mortality</a>
 <a href='https://doi.org/10.1016/j.intimp.2023.109823'>vaccine effect</a>
 <a href='https://doi.org/10.1016/j.drup.2023.101039'>bivalent vaccine effect</a>
