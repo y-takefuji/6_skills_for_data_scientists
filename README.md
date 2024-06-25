@@ -53,10 +53,8 @@ https://doi.org/10.3390/ijtm2020015
 <b>6.How to create datasets for machine learning</b>
 <a href='https://doi.org/10.1016/j.aei.2021.101354'>example in construction</a>
 </pre>
-y=f(X) or Y=f(X): X=(x1,x2,...xn); Y=(y1,y2,...,ym); 
-
 Machine learning is equivalent to forming the relationship function f(): y=f(X) or Y=f(X) 
 between X (independent variables) and y (dependent variable) 
 or between X (independent variables) and Y (dependent variables).
 
-y or Y is the target dependent variable(s) and X is independent variables affecting y or Y.
+y=f(X) or Y=f(X): X=(x1,x2,...xn); Y=(y1,y2,...,ym), where y or Y is the target dependent variable(s) and X is independent variables affecting y or Y.
