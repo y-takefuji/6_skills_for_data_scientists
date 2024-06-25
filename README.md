@@ -56,4 +56,4 @@ https://doi.org/10.3390/ijtm2020015
 y=f(X) or Y=f(X): X=(x1,x2,...xn); Y=(y1,y2,...,ym); 
 Machine learning is equivalent to forming the relationship function: y=f(X) or Y=f(X) between X and y or X and Y.
 
-y or Y is the target variable(s) and X is variables associated with y or Y.
+y or Y is the target dependent variable(s) and X is independent variables affecting y or Y.
