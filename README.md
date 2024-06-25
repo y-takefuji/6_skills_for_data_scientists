@@ -50,9 +50,9 @@ $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx -md sha256
 https://doi.org/10.1016/j.aggp.2024.100025
 https://doi.org/10.3390/ijtm2020015
 
-<b>6.How to create datasets</b>
+<b>6.How to create datasets for machine learning</b>
 <a href='https://doi.org/10.1016/j.aei.2021.101354'>example in construction</a>
 </pre>
-y=f(X) or Y=f(X): X=(x1,x2,...xn); Y=(y1,y2,...,ym)
+y=f(X) or Y=f(X): X=(x1,x2,...xn); Y=(y1,y2,...,ym); Machine learning is equivalent to forming the relationship function: f().
 
 y or Y is the target variable(s) and X is variables associated with y or Y.
