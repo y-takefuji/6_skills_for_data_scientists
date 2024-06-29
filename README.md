@@ -54,9 +54,9 @@ $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx -md sha256
 
 <b>6.How to create datasets for machine learning</b>
 <a href='https://doi.org/10.1016/j.aei.2021.101354'>example in construction</a>
-</pre>
+
 Machine learning is equivalent to forming the relationship function f(): y=f(X) or Y=f(X) 
 X: independent variables; X=(x1,x2,...xn)
 y: dependent variable 
 Y: dependent variables; Y=(y1,y2,...,ym)
-
+</pre>
