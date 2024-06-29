@@ -56,7 +56,7 @@ $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx -md sha256
 <a href='https://doi.org/10.1016/j.aei.2021.101354'>example in construction</a>
 </pre>
 Machine learning is equivalent to forming the relationship function f(): y=f(X) or Y=f(X) 
-between X (independent variables) and y (dependent variable) 
-or between X (independent variables) and Y (dependent variables).
+X: independent variables; X=(x1,x2,...xn)
+y: dependent variable 
+Y: dependent variables; Y=(y1,y2,...,ym)
 
-y=f(X) or Y=f(X): X=(x1,x2,...xn); Y=(y1,y2,...,ym), where y or Y is the target dependent variable(s) and X is independent variables affecting y or Y.
