@@ -1,5 +1,5 @@
 # 6_skills_for_data_scientists
-Professionals in data science are expected to excel in six crucial skills: Python programming, global distribution of packages via PyPI, comprehension of generative AI to aid human tasks, application of diverse metrics like confusion matrices for evaluating the quality of time-series events, execution of advanced internet searches using operators, and the creation of datasets.
+Professionals in data science are expected to excel in six crucial skills: Python programming, global distribution of packages via PyPI, comprehension of generative AI to aid human tasks, application of diverse metrics like confusion matrices and p-values, execution of advanced internet searches using operators, and the creation of datasets.
 
 Data science is a cross-cutting technology that can be adapted and applied to any field.
 <pre>
