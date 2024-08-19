@@ -52,6 +52,7 @@ $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx -md sha256
 
 <a href='https://doi.org/10.1016/j.aggp.2024.100025'>search operator:https://doi.org/10.1016/j.aggp.2024.100025</a>
 <a href='https://doi.org/10.3390/ijtm2020015'>set operation:https://doi.org/10.3390/ijtm2020015</a>
+<a href='https://doi.org/10.1007/s42824-024-00146-5'>Google Trends</a>
 
 <b>6.How to create datasets for machine learning</b>
 <a href='https://doi.org/10.1016/j.aei.2021.101354'>reducing variables</a>
