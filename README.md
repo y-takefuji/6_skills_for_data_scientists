@@ -35,7 +35,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <b>3.How to use Generative AI:</b>
 <a href='https://github.com/y-takefuji/generativeAI'>https://github.com/y-takefuji/generativeAI</a>
 
-<b>4.Metrics(confusion matrix), AI fairness and p-value analysis:</b>
+<b>4.Metrics(confusion matrix), AI fairness, chi-squared and p-value analysis:</b>
 <a href='https://doi.org/10.1016/j.jemep.2023.100938'>breast cancer screening</a>
 <a href='https://doi.org/10.1016/j.intimp.2024.112032'>arthritis prevalence</a>
 <a href='https://doi.org/10.1016/j.aggp.2024.100025'>diabetes prevalence in Japan</a>
