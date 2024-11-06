@@ -44,7 +44,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <a href='https://doi.org/10.1016/j.cities.2024.105398'>court disparity p-value</a>
 <a href='https://doi.org/10.1016/j.jad.2024.10.019'>biased feature importance</a>
 <a href='https://doi.org/10.1016/j.annonc.2024.10.013'>biased feature importance on oncology</a>
-<a href='https://doi.org/10.1016/j.heha.2024.100109'>contradictions with p-values</a>
+<a href='https://doi.org/10.1016/j.heha.2024.100109'>contradictions on global warming with p-values</a>
 <a href='https://doi.org/10.1016/j.cie.2024.110667'>reducing noise in tacograph</a>
 
 <b>5.How to use internet search engines</b>
