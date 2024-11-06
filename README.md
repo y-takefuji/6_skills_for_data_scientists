@@ -41,7 +41,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <a href='https://doi.org/10.1016/j.aggp.2024.100025'>diabetes prevalence in Japan</a>
 <a href='https://doi.org/10.1016/j.ajp.2023.103736'>mental health</a>
 <a href='https://doi.org/10.1007/s41693-024-00134-w'>AI fairness in shaft excavator</a>
-<a href='https://doi.org/10.1016/j.cities.2024.105398'>court disparity p-value</a>
+<a href='https://doi.org/10.1016/j.cities.2024.105398'>court case disparity with p-value</a>
 <a href='https://doi.org/10.1016/j.jad.2024.10.019'>biased feature importance on suicide</a>
 <a href='https://doi.org/10.1016/j.annonc.2024.10.013'>biased feature importance on oncology</a>
 <a href='https://doi.org/10.1016/j.oraloncology.2024.107090'>biased radiomic features on oral oncology</a>
