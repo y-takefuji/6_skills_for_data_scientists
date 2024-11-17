@@ -37,6 +37,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 
 <b>4.Metrics(confusion matrix), AI fairness, chi-squared with p-value, Spearman's correlation with p-value analysis:</b>
 <a href='https://doi.org/10.1016/j.jemep.2023.100938'>breast cancer screening</a>
+<a href='https://doi.org/10.1016/j.jemep.2024.101025'>lung cancer screening</a>
 <a href='https://doi.org/10.1016/j.intimp.2024.112032'>arthritis prevalence</a>
 <a href='https://doi.org/10.1016/j.aggp.2024.100025'>diabetes prevalence in Japan</a>
 <a href='https://doi.org/10.1016/j.ajp.2023.103736'>mental health by sexual orientation</a>
