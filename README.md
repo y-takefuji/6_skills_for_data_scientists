@@ -53,6 +53,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <a href='https://doi.org/10.1016/j.atherosclerosis.2024.119049'>biased feature importance on protein research</a>
 <a href='https://doi.org/10.1016/j.jinf.2024.106357'>biased feature importance on infection research</a>
 <a href='https://doi.org/10.1016/j.clnu.2024.11.031'>biased feature importance on clinical nutrition</a>
+<a href='https://doi.org/10.1016/j.bbi.2024.11.036'>biased feature importance on brain behavior</a>
 <a href='https://doi.org/10.1016/j.heha.2024.100109'>contradictions in global co2 on global warming with p-values</a>
 <a href='https://doi.org/10.1016/j.cie.2024.110667'>reducing instance bias for AI tacograph</a>
 
