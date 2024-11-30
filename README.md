@@ -76,6 +76,10 @@ $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx -md sha256
 <a href='https://doi.org/10.1007/s41693-024-00134-w'>construction robots</a>
 
 Machine learning is equivalent to forming the relationship function f(): y=f(X) or Y=f(X) 
+True associations or genuine relationships between the target and features: 
+relationships beween x1 and y, x2 and y,..., xn and y.
+3 key elements: the data distribution, examining the statistical relationship between the variables, and assessing the statistical validity through the p-value
+  
 X: independent variables; X=(x1,x2,...xn)
 y: dependent variable 
 Y: dependent variables; Y=(y1,y2,...,ym)
