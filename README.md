@@ -80,7 +80,7 @@ True associations or genuine relationships between the target and features:
 relationships beween x1 and y, x2 and y,..., xn and y.
 3 key elements: the data distribution, examining the statistical relationship between the variables, and assessing the statistical validity through the p-value
   
-X: independent variables; X=(x1,x2,...xn)
+X: independent variables; X=(x1,x2,...,xn)
 y: dependent variable 
 Y: dependent variables; Y=(y1,y2,...,ym)
 </pre>
