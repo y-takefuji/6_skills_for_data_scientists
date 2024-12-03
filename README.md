@@ -3,6 +3,8 @@ Professionals in data science are expected to excel in six crucial skills: Pytho
 
 Fundamental principles dictate that when analyzing the relationship between the target and features, several key elements are essential. These include understanding the data distribution, examining the statistical relationship between the variables, and assessing the statistical validity through the p-value. Therefore, it is important to employ non-linear and nonparametric methods, along with calculating the p-value.
 
+Different machine learning models employ distinct methodologies for calculating feature importance(s) and this can lead to varying degrees of bias. Feature importances from machine learning models are always inherently biased which is not a trivial issue.
+
 Data science is a cross-cutting technology that can be adapted and applied to any field.
 <pre>
 <b>1.Python PROGRAMMING</b>
