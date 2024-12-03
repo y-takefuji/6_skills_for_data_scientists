@@ -5,6 +5,8 @@ Fundamental principles dictate that when analyzing the relationship between the 
 
 Different machine learning models employ distinct methodologies for calculating feature importance(s) and this can lead to varying degrees of bias. Feature importances from machine learning models are always inherently biased which is not a trivial issue.
 
+Multicollinearity occurs when two or more independent variables in a regression model are highly correlated, which can lead to unreliable coefficient estimates. Multi-collinearity Assessment: Correlation Matrix:Spearman's correlation, Variance Inflation Factor (VIF): VIF>10 with threshold=5, Tolerance: <0.1, Condition Index: >30, Principal Component Analysis (PCA).
+
 Data science is a cross-cutting technology that can be adapted and applied to any field.
 <pre>
 <b>1.Python PROGRAMMING</b>
