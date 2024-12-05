@@ -16,6 +16,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 4. SHAP inherits and amplifies biases due to explain=SHAPT(model).
 5. To calculate true associations or genuine relationships between variables, the data distribution, examining the statistical relationship between the variables, and assessing the statistical validity through the p-value.
 6. To reduce biases, choice of linear/nonlinear and parametric/nonparametric approaches is vital.
+7. Spearman's correlation with p-values and Kendall's tau with p-values are crucial for calculating true associations between variables.
 
 <pre>
 <b>1.Python PROGRAMMING</b>
