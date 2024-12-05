@@ -13,7 +13,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 1. The primary goal of machine learning is to accurately predict the target.
 2. Machine learning feature importances are always inherently biased while different machine learning models employ distinct methodologies for calculating feature importance(s) and this can lead to varying degrees of bias.
 3. Cross-validation with AUC and other metrics is only effective for target prediction accuracy, not for feature importance accuracy.
-4. SHAP inherits biases due to explain=SHAPT(model).
+4. SHAP inherits and amplifies biases due to explain=SHAPT(model).
 5. To calculate true associations or genuine relationships between variables, the data distribution, the statistical relationships, and statistical validation with p-values.
 6. To reduce biases, choice of linear/nonlinear and parametric/nonparametric is vital.
 
