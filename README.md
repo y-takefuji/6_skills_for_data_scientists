@@ -8,6 +8,15 @@ Different machine learning models employ distinct methodologies for calculating 
 Multicollinearity occurs when two or more independent variables in a regression model are highly correlated, which can lead to unreliable coefficient estimates. Multi-collinearity Assessment: Correlation Matrix:Spearman's correlation, Variance Inflation Factor (VIF): VIF>10 with threshold=5, Tolerance: <0.1, Condition Index: >30, Principal Component Analysis (PCA).
 
 Data science is a cross-cutting technology that can be adapted and applied to any field.
+
+# Fundamental principles on machine learning
+1. The primary goal of machine learning is to accurately predict the target.
+2. Machine learning feature importances are always biased.
+3. Cross-validation with AUC and other metrics is only effective for target prediction accuracy, not for feature importance accuracy.
+4. SHAP inherits biases due to explain=SHAPT(model).
+5. To calculate true associations or genuine relationships between variables, the data distribution, the statistical relationships, and statistical validation with p-values.
+6. To reduce biases, choice of linear/nonlinear and parametric/nonparametric is vital.
+
 <pre>
 <b>1.Python PROGRAMMING</b>
 <b>1.1.Python programming:</b>
