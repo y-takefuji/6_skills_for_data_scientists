@@ -10,13 +10,16 @@ Multicollinearity occurs when two or more independent variables in a regression 
 Data science is a cross-cutting technology that can be adapted and applied to any field.
 
 # Fundamental principles on machine learning
-1. The primary goal of machine learning is to accurately predict the target.
-2. Machine learning feature importances are always inherently biased while different machine learning models employ distinct methodologies for calculating feature importance(s) and this can lead to varying degrees of bias.
-3. Cross-validation with AUC and other metrics is only effective for target prediction accuracy, not for feature importance accuracy.
-4. SHAP inherits and amplifies biases due to explain=SHAPT(model).
-5. To calculate true associations or genuine relationships between variables, the data distribution, examining the statistical relationship between the variables, and assessing the statistical validity through the p-value.
-6. To reduce biases, choice of linear/nonlinear and parametric/nonparametric approaches is vital.
-7. Spearman's correlation with p-values and Kendall's tau with p-values are crucial for calculating true associations between variables.
+Here are improved versions of the provided sentences for clarity and conciseness:
+
+1. The primary objective of machine learning is to accurately predict target outcomes.
+2. Feature importance measures in machine learning are inherently biased, as different models utilize distinct methodologies for calculation, resulting in varying degrees of bias.
+3. Cross-validation using metrics such as AUC, RMSE, and R-squared effectively evaluates target prediction accuracy but does not assess the accuracy of feature importance.
+4. Currently, there is no tool available to measure the accuracy of feature importance due to the absence of ground truth data.
+5. SHAP can inherit and amplify existing biases when using the explain=SHAP(model) function.
+6. To determine true associations or genuine relationships between variables, it is essential to analyze the data distribution, examine the statistical relationships between variables, and evaluate statistical validity through p-values.
+7. Choosing between linear and nonlinear, as well as parametric and nonparametric approaches, is crucial for minimizing biases.
+8. Spearman's correlation and Kendall's tau, along with their associated p-values, are essential for accurately calculating true associations between variables.
 
 <pre>
 <b>1.Python PROGRAMMING</b>
