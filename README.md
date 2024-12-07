@@ -10,8 +10,6 @@ Multicollinearity occurs when two or more independent variables in a regression 
 Data science is a cross-cutting technology that can be adapted and applied to any field.
 
 # Fundamental principles on machine learning
-Here are improved versions of the provided sentences for clarity and conciseness:
-
 1. The primary objective of machine learning is to accurately predict target outcomes.
 2. Feature importance measures in machine learning are inherently biased, as different models utilize distinct methodologies for calculation, resulting in varying degrees of bias.
 3. Cross-validation using metrics such as AUC, RMSE, and R-squared effectively evaluates target prediction accuracy but does not assess the accuracy of feature importance.
