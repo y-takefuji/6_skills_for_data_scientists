@@ -54,7 +54,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 <a href='https://github.com/y-takefuji/generativeAI'>https://github.com/y-takefuji/generativeAI</a>
 
 <b>4.Metrics(confusion matrix), AI fairness, chi-squared with p-value, 
-  Spearman's correlation with p-value analysis:</b>
+  Spearman's correlation or Kendall's tau with p-value analysis:</b>
 <a href='https://doi.org/10.1016/j.jemep.2023.100938'>breast cancer screening</a>
 <a href='https://doi.org/10.1016/j.jemep.2024.101025'>lung cancer screening</a>
 <a href='https://doi.org/10.1016/j.intimp.2024.112032'>arthritis prevalence</a>
