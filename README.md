@@ -20,10 +20,9 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 8. Spearman's correlation and Kendall's tau, along with their associated p-values, are essential for accurately calculating true associations between variables.
 
 # Collinearity and interactions
-VIF Calculation from Correlation Matrix: y=f(x1,x2,...,xn)
+Variance Inflation Factor (VIF) Calculation from Correlation Matrix: y=f(x1,x2,...,xn)
 The VIF can be computed directly using the correlation matrix derived from the features in your dataset. The simplest way to compute it is by using the reciprocal of (1 - R^2) where (R^2) is obtained from the correlation matrix.
 Interpretation:
-
 A VIF of 1 indicates no correlation between the ( j )-th variable and the other variables.
 A VIF between 1 and 5 suggests moderate correlation that may not be problematic.
 A VIF above 5 (or sometimes 10) indicates high collinearity; the variable may need to be removed or combined with other variables.
