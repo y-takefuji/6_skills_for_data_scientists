@@ -1,9 +1,7 @@
 # 6_skills_for_data_scientists
 Professionals in data science are expected to excel in six crucial skills: Python programming, global distribution of packages via PyPI, comprehension of generative AI to aid human tasks, application of diverse metrics like confusion matrices, Chi-squared tests with p-values and Spearman's correlation with p-values or Kendall's tau with p-values, execution of advanced internet searches using operators, and the creation of datasets.
 
-You must understand whether calculations have ground truth values or not for accuracy validation.
-
-When analyzing data, we must determine whether ground truth values are available. If ground truth values are absent, careful consideration is required. Depending on the data properties, choosing between linear and nonlinear as well as parametric and nonparametric methods is crucial for accurate analysis.
+When analyzing data, we must determine whether ground truth values are available. If ground truth values are absent, careful consideration is required. Depending on the data properties, choosing linear or nonlinear as well as parametric or nonparametric methods is crucial for accurate analysis.
 
 Fundamental principles dictate that when analyzing the relationship between the target and features, several key elements are essential. These include understanding the data distribution, examining the statistical relationship between the variables with checking multicollinearity, and assessing the statistical validity through the p-value. Therefore, it is important to employ non-linear and nonparametric methods, along with calculating the p-value.
 
