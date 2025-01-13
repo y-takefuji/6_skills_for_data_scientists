@@ -88,6 +88,7 @@ A VIF above 5 (or sometimes 10) indicates high collinearity; the variable may ne
 <a href='https://doi.org/10.1016/j.tifs.2024.104853'>biased feature importance on food science</a>
 <a href='https://doi.org/10.1016/j.ajog.2024.12.010'>biased feature importance on gynecology</a>
 <a href='https://doi.org/10.1016/j.molp.2024.12.014'>biased feature importance on molecular plant</a>
+<a href='https://doi.org/10.1016/j.bja.2024.11.033'>biased feature importance on anaesthesia</a>
 <a href='https://doi.org/10.1016/j.retram.2024.103490'>data misinterpretation</a>
 <a href='https://doi.org/10.1016/j.heha.2024.100109'>contradictions in global co2 on global warming with p-values</a>
 <a href='https://doi.org/10.1016/j.cie.2024.110667'>reducing instance bias for AI tacograph</a>
