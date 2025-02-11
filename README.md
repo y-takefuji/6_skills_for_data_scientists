@@ -19,7 +19,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 5. SHAP can inherit and amplify existing biases from model when using the explain=SHAP(model) function.
 6. To determine true associations or genuine relationships between variables, it is essential to analyze the data distribution, examine the statistical relationships between variables, and evaluate statistical validity through p-values.
 7. Choosing between linear and nonlinear, as well as parametric and nonparametric approaches, is crucial for minimizing biases.
-8. Spearman's correlation and Kendall's tau, along with their associated p-values, are essential for accurately calculating true associations between variables.
+8. Spearman's correlation, Kendall's tau, Goodman-Kruskal's gamma, Somers’ D, and Hoeffding's D along with their associated p-values, are essential for accurately calculating true associations between variables.
 
 # Collinearity and interactions
 Variance Inflation Factor (VIF) Calculation from Correlation Matrix: y=f(x1,x2,...,xn)
