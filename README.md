@@ -21,7 +21,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 7. Choosing between linear and nonlinear, as well as parametric and nonparametric approaches, is crucial for minimizing biases.
 8. Spearman's correlation, Kendall's tau, Goodman-Kruskal's gamma, Somers’ D, and Hoeffding's D along with their associated p-values, are essential for accurately calculating true associations between variables.
 
-# Collinearity and interactions
+# Linear Collinearity and interactions
 Generalized Variance Inflation Factor (GVIF) Calculation from Correlation Matrix: y=f(x1,x2,...,xn)
 The VIF can be computed directly using the correlation matrix derived from the features in your dataset. The simplest way to compute it is by using the reciprocal of (1 - R^2) where (R^2) is obtained from the correlation matrix.
 <pre>
