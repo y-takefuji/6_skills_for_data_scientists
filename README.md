@@ -15,7 +15,7 @@ Data science is a cross-cutting technology that can be adapted and applied to an
 Spearman's correlation: monotonic, range from -1 to 1
 Kendall's tau: monotonic, range from -1 to 1
 Goodman=Kruskal gamma: monotonic, range -1 to 1
-Somers'D:nomotomic, range -1 to 1
+Somers'D:monotonic, range -1 to 1
 Hoeffding's D: nonmonotonic, range 0 to 1
 </pre>
 
