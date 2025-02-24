@@ -10,6 +10,14 @@ Different machine learning models employ distinct methodologies for calculating 
 Multicollinearity occurs when two or more independent variables in a regression model are highly correlated, which can lead to unreliable coefficient estimates. Multicollinearity Assessment: Correlation Matrix:Spearman's correlation, Variance Inflation Factor (VIF): VIF>10 with threshold=5, Tolerance: <0.1, Condition Index: >30, Principal Component Analysis (PCA).
 
 Data science is a cross-cutting technology that can be adapted and applied to any field.
+# True associations against nonlinear and nonparametric data
+<pre>
+Spearman's correlation: monotonic, range from -1 to 1
+Kendall's tau: monotonic, range from -1 to 1
+Goodman=Kruskal gamma: monotonic, range -1 to 1
+Somers'D:nomotomic, range -1 to 1
+Hoeffding's D: nonmonotonic, range 0 to 1
+</pre>
 
 # Fundamental principles on machine learning
 1. The primary objective of machine learning is to accurately predict target outcomes with ground truth values.
