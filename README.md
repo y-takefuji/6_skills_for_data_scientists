@@ -21,7 +21,8 @@ Blum-Kiefer-Rosenblatt's R: nonmonotonic, range 0 to 1
 Bergsma-Dassios-Yanagimoto's tau O(n^4): nonmonotonic, range -1 to 1 
 
 Partial Information Decomposition (PID):  
-Randomized Dependence Coefficient (RDC)
+Randomized Dependence Coefficient (RDC):
+Transfer Entropy and Kernel-based Granger Causality:
 </pre>
 
 # Fundamental principles on machine learning
