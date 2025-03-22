@@ -19,6 +19,8 @@ Somers'D: monotonic range -1 to 1
 Hoeffding's D: nonmonotonic, range 0 to 1
 Blum-Kiefer-Rosenblatt's R: nonmonotonic, range 0 to 1
 Bergsma-Dassios-Yanagimoto's tau O(n^4): nonmonotonic, range -1 to 1 
+
+Partial Information Decomposition (PID):  
 </pre>
 
 # Fundamental principles on machine learning
