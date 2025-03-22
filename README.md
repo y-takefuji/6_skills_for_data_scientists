@@ -23,6 +23,7 @@ Bergsma-Dassios-Yanagimoto's tau O(n^4): nonmonotonic, range -1 to 1
 Partial Information Decomposition (PID):  
 Randomized Dependence Coefficient (RDC):
 Transfer Entropy and Kernel-based Granger Causality:
+Additive Noise Models (ANM) / Post-Nonlinear Models:
 </pre>
 
 # Fundamental principles on machine learning
