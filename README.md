@@ -12,6 +12,7 @@ Multicollinearity occurs when two or more independent variables in a regression 
 Data science is a cross-cutting technology that can be adapted and applied to any field.
 # True associations against nonlinear and nonparametric data
 <pre>
+Pairwise true associations
 Spearman's correlation: monotonic, range from -1 to 1
 Kendall's tau: monotonic, range from -1 to 1
 Goodman-Kruskal gamma: monotonic, range -1 to 1
@@ -20,9 +21,10 @@ Hoeffding's D: nonmonotonic, range 0 to 1
 Blum-Kiefer-Rosenblatt's R: nonmonotonic, range 0 to 1
 Bergsma-Dassios-Yanagimoto's tau O(n^4): nonmonotonic, range -1 to 1 
 
+High-order true associations
 Partial Information Decomposition (PID):  
 Randomized Dependence Coefficient (RDC):
-Transfer Entropy and Kernel-based Granger Causality:
+Transfer Entropy (TE) with Kernel-based Granger Causality (KGC):
 Additive Noise Models (ANM) / Post-Nonlinear Models:
 </pre>
 
