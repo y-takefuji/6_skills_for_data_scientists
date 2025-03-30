@@ -26,7 +26,7 @@ Mutual Information (MI):
 Partial Information Decomposition (PID):  
 Randomized Dependence Coefficient (RDC):
 Transfer Entropy (TE) with Kernel-based Granger Causality (KGC):
-Additive Noise Models (ANM) / Post-Nonlinear Models:
+Additive Noise Models (ANM) / Post-Nonlinear Models (PNM):
 </pre>
 
 # Fundamental principles on machine learning
@@ -37,7 +37,8 @@ Additive Noise Models (ANM) / Post-Nonlinear Models:
 5. SHAP can inherit and amplify existing biases from model when using the explain=SHAP(model) function.
 6. To determine true associations or genuine relationships between variables, it is essential to analyze the data distribution, examine the statistical relationships between variables, and evaluate statistical validity through p-values.
 7. Choosing between linear and nonlinear, as well as parametric and nonparametric approaches, is crucial for minimizing biases.
-8. Spearman's correlation, Kendall's tau, Goodman-Kruskal's gamma, Somers’ D, and Hoeffding's D along with their associated p-values, are essential for accurately calculating true associations between variables.
+8. Spearman's correlation, Kendall's tau, Goodman-Kruskal's gamma, Somers’ D, and Hoeffding's D along with their associated p-values, are essential for accurately calculating true associations between variables for examining bivariate (pairwise) relationships.
+9. There are robust methods (MI, TE, RDC, PNM) for multivariate relationships or interactions among multiple variables.
 
 # Linear Collinearity and interactions
 Generalized Variance Inflation Factor (GVIF) Calculation from Correlation Matrix: y=f(x1,x2,...,xn)
