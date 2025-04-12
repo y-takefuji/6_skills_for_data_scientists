@@ -23,6 +23,7 @@ Bergsma-Dassios-Yanagimoto's tau O(n^4): nonmonotonic, range -1 to 1
 
 High-order true associations (nonmonotonic)
 Mutual Information (MI):
+Total Correlation (TC):
 Partial Information Decomposition (PID):  
 Randomized Dependence Coefficient (RDC):
 Transfer Entropy (TE) with Kernel-based Granger Causality (KGC):
