@@ -32,7 +32,7 @@ Additive Noise Models (ANM) / Post-Nonlinear Models (PNM):
 
 # Fundamental principles on machine learning
 1. The primary objective of machine learning is to accurately predict target outcomes with ground truth values.
-2. Feature importance measures in machine learning are inherently biased without ground truth values, as different models utilize distinct methodologies for calculation, resulting in varying degrees of non-negligible bias.
+2. Feature importance measures in machine learning are inherently biased due to the absence of ground truth values, as different models utilize distinct methodologies for calculation, resulting in varying degrees of non-negligible bias.
 3. Cross-validation using metrics such as AUC, RMSE, and R-squared effectively evaluates target prediction accuracy but does not assess the accuracy of feature importance due to absence of ground truth values.
 4. Currently, there is no tool available to measure the accuracy of feature importance due to the absence of ground truth data.
 5. SHAP can inherit and amplify existing biases from model when using the explain=SHAP(model) function.
