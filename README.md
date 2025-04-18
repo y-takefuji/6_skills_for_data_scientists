@@ -135,7 +135,10 @@ $ openssl enc -d -aes256 -pbkdf2 -in keyword.crypted >keyword.pptx -md sha256
 Machine learning is equivalent to forming the relationship function f(): y=f(X) or Y=f(X) 
   X=(x1,x2,...,xn)
 True associations or genuine relationships between the target and features: 
-relationships beween x1 and y, x2 and y,..., xn and y.
+single relationships beween x1 and y, x2 and y,..., xn and y.
+Pair relationships between x1 and x2 and y, x1 and x3 and y,..., xx-1 and xn and y.
+complex relationship among multiple variables
+  
 3 key elements: the data distribution, examining the statistical relationship between the variables, 
   and assessing the statistical validity through the p-value
   
