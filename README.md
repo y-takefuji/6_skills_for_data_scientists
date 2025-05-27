@@ -40,7 +40,7 @@ Additive Noise Models (ANM) / Post-Nonlinear Models (PNM):
 7. Choosing between linear and nonlinear, as well as parametric and nonparametric approaches, is crucial for minimizing biases.
 8. Spearman's correlation, Kendall's tau, Goodman-Kruskal's gamma, Somers’ D, and Hoeffding's D along with their associated p-values, are essential for accurately calculating true associations between variables for examining bivariate (pairwise) relationships.
 9. There are robust methods (MI, TE, RDC, PNM) for multivariate relationships or interactions among multiple variables.
-10. Altering data values such as Scaling and transformation produces artifact results.
+10. Manipulating data through scaling and transformation techniques may generate artifactual results that misrepresent the original information.
 
 # Linear Collinearity and interactions
 Generalized Variance Inflation Factor (GVIF) Calculation from Correlation Matrix: y=f(x1,x2,...,xn)
