@@ -3,6 +3,8 @@ Professionals in data science are expected to excel in six crucial skills: Pytho
 
 When analyzing data, we must determine whether ground truth values are available. If ground truth values are absent, careful consideration is required. Depending on the data properties, choosing linear or nonlinear as well as parametric or nonparametric methods is crucial for accurate analysis.
 
+There are two types of machine learning: supervised machine learning and unsupervised machine learning.
+
 Fundamental principles dictate that when analyzing the relationship between the target and features, several key elements are essential. These include understanding the data distribution, examining the statistical relationship between the variables with checking multicollinearity, and assessing the statistical validity through the p-value. Therefore, it is important to employ non-linear and nonparametric methods, along with calculating the p-value.
 
 Different machine learning models employ distinct methodologies for calculating feature importance(s) and this can lead to varying degrees of bias. Feature importances from machine learning models are always inherently biased which is not a non-negligible issue. While machine learning target predictions can be validated against known ground truth values to assess accuracy, feature importances derived from models lack such definitive ground truth references for validation.
