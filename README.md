@@ -3,7 +3,9 @@ Professionals in data science are expected to excel in six crucial skills: Pytho
 
 There are three types of AI misapplications: violating fundamental assumptions of data analysis tools, ground truth challenges in model interpretation, and other critical misapplications including preprocessing such as scaling, normalization and transformation.
 
-When analyzing data, we must determine whether ground truth values are available. If ground truth values are absent, careful consideration is required. Multifaceted approaches are recommended by using unsupervised machine learning models such as feature agglomeration and highly variable gene selection and followed by nonlinear nonparametric methods such as Spearman's correaltion with p-values for monotonic relationships. Depending on the data properties, choosing linear or nonlinear as well as parametric or nonparametric methods is crucial for accurate analysis.
+When analyzing data, we must determine whether ground truth values are available. If ground truth values are absent, careful consideration is required. Multifaceted approaches are recommended by using unsupervised machine learning models such as feature agglomeration and highly variable gene selection and followed by nonlinear nonparametric methods such as Spearman's correaltion with p-values for monotonic relationships. Due to the absence of ground truth in accurately calculating true associations between variables, feature ranking stability plays a key role. Existing supervised machine learning models generate model specific feature importances. Feature importance refers to contributions of prediction rather than true associations between variables. Feature importances derived from models are potentially biased, leading to erroneous interpretations.
+
+Depending on the data properties, choosing linear or nonlinear as well as parametric or nonparametric methods is crucial for accurate analysis.
 
 There are two types of machine learning: supervised machine learning and unsupervised machine learning.
 
