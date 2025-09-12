@@ -1,4 +1,4 @@
-# 6_skills_for_data_scientists
+# 6_skills_for_data_scientists 
 Professionals in data science are expected to excel in six crucial skills: Python programming, global distribution of packages via PyPI, comprehension of generative AI to aid human tasks, application of diverse metrics like confusion matrices, Spearman's correlation with p-values, execution of advanced internet searches using operators, and the creation of datasets.
 
 There are three types of AI misapplications: violating fundamental assumptions of data analysis tools, ground truth challenges in model interpretation, and other critical misapplications including preprocessing such as scaling, normalization and transformation.
