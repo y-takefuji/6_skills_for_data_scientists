@@ -93,8 +93,9 @@ A GVIF above 5 (or sometimes 10) indicates high collinearity; the variable may n
 <b>3.How to use Generative AI:</b>
 <a href='https://github.com/y-takefuji/generativeAI'>https://github.com/y-takefuji/generativeAI</a>
 
-<b>4.Metrics(confusion matrix), AI fairness, chi-squared with p-value, 
-  Spearman's correlation or Kendall's tau with p-value analysis:</b>
+<b>4.Metrics(confusion matrix), AI fairness, Spearman's correlation with p-value, 
+  unsupervised models:</b>
+<a href='https://doi.org/10.1016/j.mtcomm.2025.114385'>leave-top1-out approach</a>
 <a href='https://doi.org/10.1016/j.jemep.2023.100938'>breast cancer screening</a>
 <a href='https://doi.org/10.1016/j.jemep.2024.101025'>lung cancer screening</a>
 <a href='https://doi.org/10.1016/j.intimp.2024.112032'>arthritis prevalence</a>
